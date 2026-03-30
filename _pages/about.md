@@ -58,7 +58,22 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 </div>
 <!-- BO-LSTNet -->
 
-# 📝 Publications - participating contribution
+# 📝 Publications/Preprints - participating contribution
+
+<!-- MMPL -->
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/MMPL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation**
+
+Xunzhi Xiang, Yabo Chen, Guiyu Zhang, **Zhongyu Wang**, Zhe Gao, Quanming Xiang, Gonghu Shang, Junqi Liu, Haibin Huang, Yang Gao, Chi Zhang, Qi Fan, Xuelong Li
+
+[[**Paper**]](https://arxiv.org/abs/2508.03334)&nbsp;
+[[**Project**]](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/)&nbsp;
+[[**Code**]](https://github.com/Tele-AI/MMPL)
+
+</div>
+</div>
+<!-- MMPL -->
 
 # 🎖 Honors and Awards
 - First-Class Academic Scholarship for Ph.D. Students, Beihang University, 2025
