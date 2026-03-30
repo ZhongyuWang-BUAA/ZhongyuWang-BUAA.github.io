@@ -23,7 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- **2026.2**: One paper got accepted to CVPR 2026
+- **2026.2**: Two papers got accepted to CVPR 2026
 
 # 📝 Publications 
 
@@ -33,6 +33,8 @@ My research interest includes neural machine translation and computer vision. I 
 **Deep Reinforcement Learning-Assisted Triaxial Magnetic Moment Vector Measurement Using an Atomic Magnetometer**
 
 **Zhongyu Wang**, Min Zhang, Xiaoyu Li, Jianwei Sheng, Shushan Gao, Huafeng Qin
+
+*IEEE Transactions on Instrumentation and Measurement, 2025*
 
 [[**Paper**]](https://ieeexplore.ieee.org/document/11131291)&nbsp;
 
@@ -47,6 +49,8 @@ My research interest includes neural machine translation and computer vision. I 
 **Neural Network-Assisted Magnetic Moment Measurement Using an Atomic Magnetometer**
 
 **Zhongyu Wang**, Jixi Lu, Ziao Liu, Xiaoyu Li, Jianwei Sheng, Jianli Li
+
+*IEEE Transactions on Instrumentation and Measurement, 2025*
 
 [[**Paper**]](https://ieeexplore.ieee.org/document/10898051)&nbsp;
 
