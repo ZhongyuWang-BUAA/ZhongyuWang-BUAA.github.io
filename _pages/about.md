@@ -25,7 +25,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 - **2026.2**: Two papers got accepted to CVPR 2026
 
-# 📝 Publications 
+# 📝 Publications - main contribution
 
 <!-- Dueling DTQN -->
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/Dueling_DTQN.jpg' alt="sym" width="100%"></div></div>
@@ -58,6 +58,8 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 <!-- BO-LSTNet -->
+
+# 📝 Publications - participating contribution
 
 # 🎖 Honors and Awards
 - First-Class Academic Scholarship for Ph.D. Students, Beihang University, 2025
