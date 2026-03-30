@@ -92,5 +92,4 @@ Xunzhi Xiang, Yabo Chen, Guiyu Zhang, **Zhongyu Wang**, Zhe Gao, Quanming Xiang,
 - *2025.03 - 2025.09*, LLM Research Intern, TeleAI, Shanghai, China.
 
 # ✨ Hobbies
-- Consumer electronics
-- Running (***5km PB:*** 20:45, ***10km PB:*** 46:05, ***Half Marathon PB:*** 1:47:06)
+Consumer electronics, running (***5km PB:*** 20:45, ***10km PB:*** 46:05, ***Half Marathon PB:*** 1:47:06)
