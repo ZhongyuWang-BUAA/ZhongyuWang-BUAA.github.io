@@ -85,8 +85,8 @@ Xunzhi Xiang, Yabo Chen, Guiyu Zhang, **Zhongyu Wang**, Zhe Gao, Quanming Xiang,
 - The First Prize of the 1st Undergraduate Physics Academic Competition of Beijing, 2020
 
 # 📖 Educations
-- *2022.09 - present*, Ph.D. at Beihang University. Laboratory of Intelligent Recognition and Image Processing.
-- *2018.09 - 2022.07*, B.E. at Beijing Forestry University. Laboratory of Intelligent Monitoring and Identification. GPA: 96.36/100,　Rank: 5/126
+- *2022.09 - present*, Ph.D. at Beihang University, Laboratory of Intelligent Recognition and Image Processing.
+- *2018.09 - 2022.07*, B.E. at Beijing Forestry University, Laboratory of Intelligent Monitoring and Identification. GPA: 96.36/100, Rank: 5/126.
 
 # 💻 Internships
 - *2025.03 - 2025.09*, LLM Research Intern, TeleAI, Shanghai, China.
