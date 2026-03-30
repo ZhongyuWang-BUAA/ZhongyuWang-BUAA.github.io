@@ -19,7 +19,7 @@ redirect_from:
 
 > Pressure is a privilege.
 
-Hi! I'm Zhongyu Wang, a final year PhD student at Beihang University. I am supervised by Prof. [Di Huang](https://irip.buaa.edu.cn/dihuang/index.html). Previously, I obtained my B.Eng. degree from Beijing Forestry University.
+Hi! I'm Zhongyu Wang, a final year PhD student at Beihang University. I am supervised by Prof. [Di Huang](https://irip.buaa.edu.cn/dihuang/index.html). Previously, I obtained my B.Eng. degree from Beijing Forestry University, under the guidance of Prof. [Pengle Cheng](https://scholar.google.com/citations?hl=zh-CN&user=MN9OL4gAAAAJ).
 
 My research interest includes Multi-modal Large Language Models, Multi-modal Agents, and Reinforcement Learning.
 
