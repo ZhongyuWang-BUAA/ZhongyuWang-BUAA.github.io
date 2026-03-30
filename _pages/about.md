@@ -79,7 +79,7 @@ Xunzhi Xiang, Yabo Chen, Guiyu Zhang, **Zhongyu Wang**, Zhe Gao, Quanming Xiang,
 </div>
 <!-- MMPL -->
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 - First-Class Academic Scholarship for Ph.D. Students, Beihang University, 2025
 - Second-Class Academic Scholarship for Ph.D. Students, Beihang University, 2023, 2024
 - The First Prize of the 1st Undergraduate Physics Academic Competition of Beijing, 2020
@@ -90,3 +90,7 @@ Xunzhi Xiang, Yabo Chen, Guiyu Zhang, **Zhongyu Wang**, Zhe Gao, Quanming Xiang,
 
 # 💻 Internships
 - *2025.03 - 2025.09*, LLM Research Intern, TeleAI, Shanghai, China.
+
+# ✨ Hobbies
+- Consumer electronics
+- Running (5K PB: 20:45 | 10K PB: 46:05 | Half Marathon PB: 1:47:06)
