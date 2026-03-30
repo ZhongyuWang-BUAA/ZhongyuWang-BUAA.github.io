@@ -47,8 +47,8 @@ My research interest includes neural machine translation and computer vision. I 
 - The First Prize of the 1st Undergraduate Physics Academic Competition of Beijing, 2020
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - present*, Ph.D. at Beihang University. Laboratory of Intelligent Recognition and Image Processing
+- *2018.09 - 2022.07*, B.E. at Beijing Forestry University. Laboratory of Intelligent Monitoring and Identification
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
