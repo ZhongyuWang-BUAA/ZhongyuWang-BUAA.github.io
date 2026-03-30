@@ -84,9 +84,5 @@ Xunzhi Xiang, Yabo Chen, Guiyu Zhang, **Zhongyu Wang**, Zhe Gao, Quanming Xiang,
 - *2022.09 - present*, Ph.D. at Beihang University. Laboratory of Intelligent Recognition and Image Processing.
 - *2018.09 - 2022.07*, B.E. at Beijing Forestry University. Laboratory of Intelligent Monitoring and Identification.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
 - *2025.03 - 2025.09*, LLM Research Intern, TeleAI, Shanghai, China.
