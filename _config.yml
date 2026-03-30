@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhongyu Wang(王中煜)"
+  name             : "Zhongyu Wang"
   avatar           : "images/JonyWang.jpg"
   bio              : "Agent, Reinforcement Learning"
   location         : "Beijing, China"
