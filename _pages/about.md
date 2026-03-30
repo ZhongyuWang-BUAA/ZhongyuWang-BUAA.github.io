@@ -93,4 +93,4 @@ Xunzhi Xiang, Yabo Chen, Guiyu Zhang, **Zhongyu Wang**, Zhe Gao, Quanming Xiang,
 
 # ✨ Hobbies
 - Consumer electronics
-- Running (*5km PB: 20:45, 10km PB: 46:05, Half Marathon PB: 1:47:06*)
+- Running (***5km PB:*** 20:45, ***10km PB:*** 46:05, ***Half Marathon PB:*** 1:47:06)
