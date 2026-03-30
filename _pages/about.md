@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+> Pressure is a privilege.
+
 Hi! I'm Zhongyu Wang, a final year PhD student at Beihang University. Previously, I obtained my B.Eng. degree from Beijing Forestry University.
 
 My research interest includes Multi-modal Large Language Models, Multi-modal Agents, and Reinforcement Learning.
