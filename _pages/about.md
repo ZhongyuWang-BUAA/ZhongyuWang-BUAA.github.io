@@ -28,7 +28,7 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 
 # 📝 Publications
 
-## main contribution
+## main contributions
 
 <!-- Dueling DTQN -->
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/Dueling_DTQN.jpg' alt="sym" width="100%"></div></div>
@@ -62,7 +62,7 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 </div>
 <!-- BO-LSTNet -->
 
-## participating contribution
+## participating contributions
 
 <!-- MMPL -->
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/MMPL.jpg' alt="sym" width="100%"></div></div>
