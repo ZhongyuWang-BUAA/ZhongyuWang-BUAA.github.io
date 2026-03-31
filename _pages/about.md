@@ -35,7 +35,7 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 <div class='paper-box-text' markdown="1">
 **Deep Reinforcement Learning-Assisted Triaxial Magnetic Moment Vector Measurement Using an Atomic Magnetometer**
 
-**Zhongyu Wang**, Min Zhang, Xiaoyu Li, Jianwei Sheng, Shushan Gao, Huafeng Qin
+**Zhongyu Wang**, Min Zhang, Xiaoyu Li, Jianwei Sheng, Shushan Gao, Huafeng Qin, Jixi Lu
 
 *IEEE Transactions on Instrumentation and Measurement, 2025*
 
