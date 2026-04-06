@@ -24,6 +24,7 @@ Hi! I'm Zhongyu Wang, a final-year Ph.D. student of ***Laboratory of Intelligent
 My research interest includes Multi-modal Large Language Models, Multi-modal Agents, and Reinforcement Learning.
 
 # 🔥 News
+- **2026.4**: One paper got accepted to ACL 2026
 - **2026.2**: Two papers got accepted to CVPR 2026
 
 # 📝 Publications
