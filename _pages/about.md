@@ -80,6 +80,21 @@ Xunzhi Xiang, Yabo Chen, Guiyu Zhang, **Zhongyu Wang**, Zhe Gao, Quanming Xiang,
 </div>
 <!-- MMPL -->
 
+<!-- SymphoMotion -->
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/MMPL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation**
+
+Guiyu Zhang, Yabo Chen, Xunzhi Xiang, Junchao Huang, **Zhongyu Wang**, Li Jiang
+
+[[**Paper**]](https://arxiv.org/pdf/2604.03723)&nbsp;
+[[**Project**]](https://grenoble-zhang.github.io/SymphoMotion/)&nbsp;
+[[**Code**]](https://github.com/grenoble-zhang/SymphoMotion/tree/main?tab=readme-ov-file)
+
+</div>
+</div>
+<!-- SymphoMotion -->
+
 # 🎖 Honors and Awards
 - First-Class Academic Scholarship for Ph.D. Students, Beihang University, 2025
 - Second-Class Academic Scholarship for Ph.D. Students, Beihang University, 2023, 2024
