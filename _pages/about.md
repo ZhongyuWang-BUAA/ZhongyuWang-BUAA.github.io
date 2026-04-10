@@ -66,7 +66,7 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 ## Participating contributions
 
 <!-- MMPL -->
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/MMPL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='../images/MMPL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation**
 
