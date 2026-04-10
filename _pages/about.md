@@ -65,21 +65,6 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 
 ## Participating contributions
 
-<!-- MMPL -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='../images/MMPL.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation**
-
-Xunzhi Xiang, Yabo Chen, Guiyu Zhang, **Zhongyu Wang**, Zhe Gao, Quanming Xiang, Gonghu Shang, Junqi Liu, Haibin Huang, Yang Gao, Chi Zhang, Qi Fan, Xuelong Li
-
-[[**Paper**]](https://arxiv.org/abs/2508.03334)&nbsp;
-[[**Project**]](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/)&nbsp;
-[[**Code**]](https://github.com/Tele-AI/MMPL)
-
-</div>
-</div>
-<!-- MMPL -->
-
 <!-- SymphoMotion -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='../images/SymphoMotion.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -96,6 +81,21 @@ Guiyu Zhang, Yabo Chen, Xunzhi Xiang, Junchao Huang, **Zhongyu Wang**, Li Jiang
 </div>
 </div>
 <!-- SymphoMotion -->
+
+<!-- MMPL -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='../images/MMPL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation**
+
+Xunzhi Xiang, Yabo Chen, Guiyu Zhang, **Zhongyu Wang**, Zhe Gao, Quanming Xiang, Gonghu Shang, Junqi Liu, Haibin Huang, Yang Gao, Chi Zhang, Qi Fan, Xuelong Li
+
+[[**Paper**]](https://arxiv.org/abs/2508.03334)&nbsp;
+[[**Project**]](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/)&nbsp;
+[[**Code**]](https://github.com/Tele-AI/MMPL)
+
+</div>
+</div>
+<!-- MMPL -->
 
 # 🎖 Honors and Awards
 - First-Class Academic Scholarship for Ph.D. Students, Beihang University, 2025
