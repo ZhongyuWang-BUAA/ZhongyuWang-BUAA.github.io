@@ -32,7 +32,7 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 ## Main contributions
 
 <!-- Dueling DTQN -->
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/Dueling_DTQN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='../images/Dueling_DTQN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Deep Reinforcement Learning-Assisted Triaxial Magnetic Moment Vector Measurement Using an Atomic Magnetometer**
 
@@ -48,7 +48,7 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 <!-- Dueling DTQN -->
 
 <!-- BO-LSTNet -->
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/BO-LSTNet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='../images/BO-LSTNet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Neural Network-Assisted Magnetic Moment Measurement Using an Atomic Magnetometer**
 
