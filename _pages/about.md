@@ -102,6 +102,7 @@ Xunzhi Xiang, Yabo Chen, Guiyu Zhang, **Zhongyu Wang**, Zhe Gao, Quanming Xiang,
 - *2018.09 - 2022.07*, B.E. at Beijing Forestry University, *Laboratory of Intelligent Monitoring and Identification*. GPA: 96.36/100, Rank: 5/126.
 
 # 💻 Internships
+- *2026.04 - 2025.09*, Summer Intern, LLM Application Algorithm Engineer, Kuaishou, Beijing, China.
 - *2025.03 - 2025.09*, LLM Research Intern, TeleAI, Shanghai, China.
 
 # 🎖 Honors and Awards
