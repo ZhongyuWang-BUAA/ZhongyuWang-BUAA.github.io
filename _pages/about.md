@@ -74,7 +74,7 @@ Guiyu Zhang, Yabo Chen, Xunzhi Xiang, Junchao Huang, **Zhongyu Wang**, Li Jiang
 
 *The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026*
 
-[[**Paper**]](https://arxiv.org/pdf/2604.03723)&nbsp;
+[[**Paper**]](https://arxiv.org/abs/2604.03723)&nbsp;
 [[**Project**]](https://grenoble-zhang.github.io/SymphoMotion/)&nbsp;
 [[**Code**]](https://github.com/grenoble-zhang/SymphoMotion/tree/main?tab=readme-ov-file)
 
