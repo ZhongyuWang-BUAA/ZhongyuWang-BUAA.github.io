@@ -103,7 +103,7 @@ Xunzhi Xiang, Yabo Chen, Guiyu Zhang, **Zhongyu Wang**, Zhe Gao, Quanming Xiang,
 
 # 💻 Internships
 - *2026.04 - present*, Summer Intern, LLM Application Algorithm Engineer, Kuaishou <img src="../images/kuaishou.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Beijing, China.
-- *2025.03 - 2025.09*, LLM Research Intern, TeleAI, Shanghai, China.
+- *2025.03 - 2025.09*, LLM Research Intern, TeleAI <img src="../images/teleai.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Shanghai, China.
 
 # 🎖 Honors and Awards
 - First-Class Academic Scholarship for Ph.D. Students, Beihang University, 2025
