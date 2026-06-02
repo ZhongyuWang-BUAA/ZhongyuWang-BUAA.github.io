@@ -89,7 +89,7 @@ Guiyu Zhang, Yabo Chen, Xunzhi Xiang, Junchao Huang, **Zhongyu Wang**, Li Jiang
 
 *The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026*
 
-[[**Paper**]](https://arxiv.org/abs/2604.03723)&nbsp;
+[[**Paper**]](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_SymphoMotion_Joint_Control_of_Camera_Motion_and_Object_Dynamics_for_CVPR_2026_paper.html)&nbsp;
 [[**Project**]](https://grenoble-zhang.github.io/SymphoMotion/)&nbsp;
 [[**Code**]](https://github.com/grenoble-zhang/SymphoMotion/tree/main?tab=readme-ov-file)
 
