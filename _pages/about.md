@@ -31,6 +31,21 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 
 ## Main contributions
 
+<!-- MARS-RL -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='../images/MARS-RL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**MARS-RL: Enhancing Multi-Agent RAG Systems for Multi-Modal Documents via Strategic Reasoning with Reinforcement Learning**
+
+**Zhongyu Wang**, Pengbo Liu
+
+*The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026*
+
+[[**Paper**]](https://openaccess.thecvf.com/content/CVPR2026F/html/Wang_MARS-RL_Enhancing_Multi-Agent_RAG_Systems_for_Multi-Modal_Documents_via_Strategic_CVPRF_2026_paper.html)&nbsp;
+
+</div>
+</div>
+<!-- MARS-RL -->
+
 <!-- Dueling DTQN -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='../images/Dueling_DTQN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
