@@ -23,9 +23,19 @@ Hi! I'm Zhongyu Wang, a final-year Ph.D. student of ***Laboratory of Intelligent
 
 My research interest includes Multi-modal Large Language Models, Multi-modal Agents, and Reinforcement Learning.
 
+<!-- 
 # 🔥 News
 - **2026.4**: One paper got accepted to ACL 2026
 - **2026.2**: Two papers got accepted to CVPR 2026
+-->
+
+# 📖 Educations
+- *2022.09 - present*, Ph.D. at Beihang University <img src="./images/buaa_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, ***Laboratory of Intelligent Recognition and Image Processing*** <img src="./images/irip_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">.
+- *2018.09 - 2022.07*, B.E. at Beijing Forestry University <img src="./images/bfu_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, ***Laboratory of Intelligent Monitoring and Identification***. GPA: 96.36/100, Rank: 5/126.
+
+# 💻 Internships
+- *2026.04 - present*, Summer Intern, LLM Application Algorithm Engineer, Kuaishou <img src="../images/kuaishou.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Beijing, China.
+- *2025.03 - 2025.09*, LLM Research Intern, TeleAI <img src="../images/teleai.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Shanghai, China.
 
 # 📝 Publications
 
@@ -126,14 +136,6 @@ Xunzhi Xiang, Yabo Chen, Guiyu Zhang, **Zhongyu Wang**, Zhe Gao, Quanming Xiang,
 </div>
 </div>
 <!-- MMPL -->
-
-# 📖 Educations
-- *2022.09 - present*, Ph.D. at Beihang University <img src="./images/buaa_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, ***Laboratory of Intelligent Recognition and Image Processing*** <img src="./images/irip_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">.
-- *2018.09 - 2022.07*, B.E. at Beijing Forestry University <img src="./images/bfu_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, ***Laboratory of Intelligent Monitoring and Identification***. GPA: 96.36/100, Rank: 5/126.
-
-# 💻 Internships
-- *2026.04 - present*, Summer Intern, LLM Application Algorithm Engineer, Kuaishou <img src="../images/kuaishou.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Beijing, China.
-- *2025.03 - 2025.09*, LLM Research Intern, TeleAI <img src="../images/teleai.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Shanghai, China.
 
 # 🎖 Honors and Awards
 - First-Class Academic Scholarship for Ph.D. Students, Beihang University, 2025
