@@ -31,6 +31,21 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 
 ## Main contributions
 
+<!-- MDocRAG-RL -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='../images/MDocRAG-RL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**MDocRAG-RL: Empowering Multi-Modal Document RAG via Complex Visual Reasoning with Reinforcement Learning**
+
+**Zhongyu Wang**
+
+*Association for Computational Linguistics (**ACL**), 2026*
+
+[[**Paper**]](https://aclanthology.org/2026.findings-acl.420/)&nbsp;
+
+</div>
+</div>
+<!-- MDocRAG-RL -->
+
 <!-- MARS-RL -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='../images/MARS-RL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
