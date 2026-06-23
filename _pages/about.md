@@ -128,7 +128,7 @@ Xunzhi Xiang, Yabo Chen, Guiyu Zhang, **Zhongyu Wang**, Zhe Gao, Quanming Xiang,
 <!-- MMPL -->
 
 # 📖 Educations
-- *2022.09 - present*, Ph.D. at Beihang University <img src="./images/buaa_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, ***Laboratory of Intelligent Recognition and Image Processing***.
+- *2022.09 - present*, Ph.D. at Beihang University <img src="./images/buaa_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, ***Laboratory of Intelligent Recognition and Image Processing*** <img src="./images/irip_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">.
 - *2018.09 - 2022.07*, B.E. at Beijing Forestry University <img src="./images/bfu_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, ***Laboratory of Intelligent Monitoring and Identification***. GPA: 96.36/100, Rank: 5/126.
 
 # 💻 Internships
