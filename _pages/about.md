@@ -48,7 +48,7 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 
 **Zhongyu Wang**
 
-*Association for Computational Linguistics (**ACL**), 2026*
+*The 64th Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026*
 
 [[**Paper**]](https://aclanthology.org/2026.findings-acl.420/)&nbsp;
 
