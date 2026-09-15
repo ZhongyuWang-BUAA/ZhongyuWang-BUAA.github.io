@@ -35,7 +35,7 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 
 # 💻 Internships
 - *2026.04 - present*, Summer Intern, LLM Application Algorithm Engineer, Kuaishou <img src="../images/kuaishou.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Beijing, China.
-- *2025.03 - 2025.09*, LLM Research Intern, TeleAI <img src="../images/teleai.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Shanghai, China.
+- *2025.03 - 2025.09*, LLM Research Intern, LLM Algorithm Engineer, TeleAI <img src="../images/teleai.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Shanghai, China.
 
 # 📝 Publications
 
