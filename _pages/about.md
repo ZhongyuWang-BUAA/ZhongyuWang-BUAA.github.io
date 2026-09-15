@@ -71,6 +71,19 @@ My research interest includes Multi-modal Large Language Models, Multi-modal Age
 </div>
 <!-- MARS-RL -->
 
+<!-- GraMRAG -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2026</div><img src='../images/GraMRAG.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**GraMRAG: Orchestrating Multi-Agent Multi-Step Reasoning via Graph Memory with Reinforcement Learning**
+
+**Zhongyu Wang**
+
+[[**Paper**]](https://arxiv.org/abs/2609.14066)&nbsp;
+
+</div>
+</div>
+<!-- GraMRAG -->
+
 <!-- Dueling DTQN -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='../images/Dueling_DTQN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
