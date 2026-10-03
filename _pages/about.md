@@ -36,7 +36,7 @@ My research interests include multimodal agents and reinforcement learning, with
 
 # 💻 Internships
 - *2026.04 - present*, Summer Intern, LLM Application Algorithm Engineer, Kuaishou <img src="../images/kuaishou.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Beijing, China.
-- *2025.03 - 2025.09*, LLM Research Intern, LLM Algorithm Engineer, TeleAI <img src="../images/teleai.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Shanghai, China.
+- *2025.03 - 2025.09*, LLM Research Intern, LLM Algorithm Engineer, TeleAI <img src="../images/teleai.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Shanghai, China. Mentors: [Yabo Chen](https://scholar.google.com/citations?user=6aHx1rgAAAAJ&hl=zh-CN), [Haibin Huang](https://brotherhuang.github.io/)
 
 # 📝 Publications
 
