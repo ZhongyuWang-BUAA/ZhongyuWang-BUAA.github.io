@@ -30,7 +30,7 @@ My research interests include multimodal agents and reinforcement learning, with
 - **2026.2**: Two papers got accepted to CVPR 2026
 -->
 
-# 📖 Educations
+# 📖 Education
 - *2022.09 - present*, Ph.D. at Beihang University <img src="./images/buaa_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, ***Laboratory of Intelligent Recognition and Image Processing*** <img src="./images/irip_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">.
 - *2018.09 - 2022.07*, B.E. at Beijing Forestry University <img src="./images/bfu_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, ***Laboratory of Intelligent Monitoring and Identification***. GPA: 96.36/100, Rank: 5/126.
 
