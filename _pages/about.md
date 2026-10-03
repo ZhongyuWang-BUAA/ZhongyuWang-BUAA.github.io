@@ -73,7 +73,7 @@ My research interests include multimodal agents and reinforcement learning, with
 <!-- MARS-RL -->
 
 <!-- GraMRAG -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2026</div><img src='../images/GraMRAG.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='../images/GraMRAG.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **GraMRAG: Orchestrating Multi-Agent Multi-Step Reasoning via Graph Memory with Reinforcement Learning**
 
@@ -137,7 +137,7 @@ Guiyu Zhang, Yabo Chen, Xunzhi Xiang, Junchao Huang, **Zhongyu Wang**, Li Jiang
 <!-- SymphoMotion -->
 
 <!-- MMPL -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='../images/MMPL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='../images/MMPL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation**
 
