@@ -85,6 +85,22 @@ My research interests include multimodal agents and reinforcement learning, with
 </div>
 <!-- GraMRAG -->
 
+<!-- MagSwinDiff -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2026</div><img src='../images/MagSwinDiff.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**MagSwinDiff: A Denoising Network Based on Diffusion Model for Dynamic Triaxial Magnetic Moment Vector Measurement**
+
+**Zhongyu Wang**, Min Zhang, Xiaoyu Li, Jianwei Sheng, Shushan Gao, Jianli Li, Huafeng Qin, Jixi Lu
+
+*IEEE Transactions on Instrumentation and Measurement, 2026*
+
+[[**Paper**]](https://ieeexplore.ieee.org/document/11726015)&nbsp;
+
+
+</div>
+</div>
+<!-- MagSwinDiff -->
+
 <!-- Dueling DTQN -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='../images/Dueling_DTQN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
