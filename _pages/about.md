@@ -173,4 +173,4 @@ Xunzhi Xiang, Yabo Chen, Guiyu Zhang, **Zhongyu Wang**, Zhe Gao, Quanming Xiang,
 - The First Prize of the 1st Undergraduate Physics Academic Competition of Beijing, 2020
 
 # ✨ Hobbies
-Consumer electronics; Running (*5km PB:* 20:45, *10km PB:* 46:05, *Half Marathon PB:* 1:47:06).
+Consumer electronics; Running (5km PB: 20:45, 10km PB: 46:05, Half Marathon PB: 1:47:06).
