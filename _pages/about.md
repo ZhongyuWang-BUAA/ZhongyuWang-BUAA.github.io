@@ -49,7 +49,7 @@ My research interests include multimodal agents and reinforcement learning, with
 
 **Kuaishou <img src="../images/kuaishou.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;"> Technical Report**
 
-MAPS turns video advertising from retrieval-based recommendation into personalized creative production, using script-driven video generation and a user feedback loop to produce video ads that align with user preferences and faithfully convey product information.
+MAPS transforms video advertising from retrieval-based recommendation into personalized creative production, using script-driven video generation and a user feedback loop to produce video ads that align with user preferences and faithfully convey product information.
 
 [[**Paper**]](https://arxiv.org/abs/2610.25748)&nbsp;
 
