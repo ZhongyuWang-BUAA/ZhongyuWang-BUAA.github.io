@@ -38,6 +38,25 @@ My research interests include multimodal agents and reinforcement learning, with
 - *2026.04 - present*, Summer Intern, LLM Application Algorithm Engineer, Kuaishou <img src="../images/kuaishou.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Beijing, China.
 - *2025.03 - 2025.09*, LLM Research Intern, LLM Algorithm Engineer, TeleAI <img src="../images/teleai.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Shanghai, China. Mentors: [Yabo Chen](https://scholar.google.com/citations?user=6aHx1rgAAAAJ&hl=zh-CN), [Haibin Huang](https://brotherhuang.github.io/)
 
+# 📑 Technical Reports
+
+<!-- MAPS -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report 2026</div><img src='../images/MAPS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**MAPS: A Multi-Agent Personalized Script-Driven Video Advertising System Enhanced by Reinforcement Learning**
+
+**Zhongyu Wang**, Chen Zuo, Qingxuan Sun, Jiayang Qiao, Qiuhao Qian, Songyan Cui, Guocheng Chen
+
+**Kuaishou <img src="../images/kuaishou.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;"> Technical Report**
+
+MAPS turns video advertising from retrieval-based recommendation into personalized creative production, using script-driven video generation and a user feedback loop to produce video ads that align with user preferences and faithfully convey product information.
+
+[[**Paper**]](https://arxiv.org/abs/2610.25748)&nbsp;
+
+</div>
+</div>
+<!-- MAPS -->
+
 # 📝 Publications
 
 ## Main contributions
