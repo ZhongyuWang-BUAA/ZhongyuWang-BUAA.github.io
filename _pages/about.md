@@ -98,7 +98,7 @@ MAPS transforms video advertising from retrieval-based recommendation into perso
 
 **Zhongyu Wang**
 
-GraMRAG is a graph memory-guided multi-agent RAG framework that leverages multimodal graph memory and Topology-Aware Policy Optimization (TAPO) to coordinate agents for long-horizon retrieval and reasoning in complex multimodal scenarios.
+GraMRAG is a graph memory-guided multi-agent RAG framework that leverages **multimodal graph memory** and **Topology-Aware Policy Optimization (TAPO)** to coordinate agents for long-horizon retrieval and reasoning in complex multimodal scenarios.
 
 [[**Paper**]](https://arxiv.org/abs/2609.14066)&nbsp;
 
